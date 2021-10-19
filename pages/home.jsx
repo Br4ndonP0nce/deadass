@@ -4,7 +4,7 @@ import st from "./../styles/home.module.css";
 import Head from "next/head";
 import Link from "next/link";
 import { MdOutlineSouth } from "react-icons/md";
-
+//
 import Marquee from "react-fast-marquee";
 import $ from "jquery";
 import { Power4, Back } from "gsap/dist/gsap";
