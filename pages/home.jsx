@@ -159,9 +159,9 @@ const Home = () => {
           <div className={st.heroContent}>
             <h2>The original Auto Generated Ass NFTs Project</h2>
             <h3>6969 Unique Asses in total</h3>
-            <Link href="/mint">
+            <a href="https://mint.deadass.io/">
               <button className="button">MINT NOW!</button>
-            </Link>
+            </a>
           </div>
         </div>
       </div>

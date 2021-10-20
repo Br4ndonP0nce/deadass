@@ -63,7 +63,6 @@ const Home = () => {
       </Head>
       {/* Header */}
       <Header
-        moveTo1={moveTo1}
         moveTo2={moveTo2}
         moveTo3={moveTo3}
         moveTo4={moveTo4}
